@@ -6,8 +6,11 @@
 
 ## My skill
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,swift" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,qt,mysql" />
 </p>
